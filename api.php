@@ -110,5 +110,5 @@ if(isset($_GET['code'])) {
 
 echo json_encode([
     'success' => false,
-    'error' => 'Código de rastreio não fornecido. Lembre se de usar o parâmetro code=$CodigoDeRastreio.'
+    'error' => 'Código de rastreio incorreto ou não fornecido.'
 ]);
