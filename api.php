@@ -1,4 +1,4 @@
-# API feita por mim, site usado para a base de informações: https://www.melhorrastreio.com.br/
+# API feita por mim, site usado para a base de informações: https://www.melhorrastreio.com.br
 
 <?php
 header('Content-Type: application/json');
